@@ -1,3 +1,9 @@
 function
 
 It is a block of code which run when it call.
+
+Types
+
+pre-defined
+user-defined
+anonymous function/lamda function
